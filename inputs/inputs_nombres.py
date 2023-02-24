@@ -1,5 +1,8 @@
 #Pedir datos al usuario
 
-nombre =input("Pone tu Nombre Rey: ")
+nombre = input("Dame tu Nombre Campeón: ")
 
 print(f'el nombre es: {nombre}')
+
+
+
