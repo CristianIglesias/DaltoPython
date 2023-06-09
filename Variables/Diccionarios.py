@@ -6,6 +6,9 @@ diccionario ={
 
 claves = diccionario.keys()
 
+for key in diccionario.items():
+    print(key)
+
 valor_de_elemento_por_clave = diccionario.get("nombre")
 
 #diccionario.clear()
